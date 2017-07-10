@@ -1,4 +1,4 @@
-
+# Find a sub sequece, in a input suquence, of which sum is zero. 
 import numpy as np
 
 def sum2zero(S):
